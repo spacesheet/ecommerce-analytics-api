@@ -1,2 +1,2 @@
 # ecommerce-analytics-api
-E-Commerce Analytics Server
+E-Commerce Analytics API
