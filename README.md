@@ -1,4 +1,4 @@
 # ecommerce-analytics-api
 E-Commerce Analytics API
 
-CQRS Pattern
+NestJS + TypeORM + ClickHouse/TimescaleDB
